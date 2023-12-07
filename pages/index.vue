@@ -72,6 +72,22 @@ const projects = [
     ]
   },
   {
+    title: 'Frontend Quiz',
+    description: 'A multi-page, frontend, quiz application utilizing features in Next.js and Tailwind. ',
+    img: '/browser-01.jpg',
+    url: 'https://ppc-restore.com/',
+    links: [
+      {
+        title: 'Github',
+        url: 'https://github.com/jpoechill/fequiz'
+      },
+      {
+        title: 'Live Site',
+        url: 'https://fequiz.vercel.app/'
+      }
+    ]
+  },
+  {
     title: 'Simple To Dos',
     description: 'A frontend, to-do application featuring light and dark modes, along persistent data with GraphQL.',
     img: '/todo_cover_rithfolio.png',
@@ -86,23 +102,7 @@ const projects = [
         url: 'https://todo-gql.vercel.app/'
       }
     ]
-  },
-  {
-    title: 'Multi Page Marketing Website',
-    description: 'PPCS Restore is a national, family-run, commercial building restoration company based in the Bay Area.',
-    img: '/browser-09.jpg',
-    url: 'https://ppc-restore.com/',
-    links: [
-      {
-        title: 'Github',
-        url: 'https://github.com/jpoechill/ppcs'
-      },
-      {
-        title: 'Live Site',
-        url: 'https://ppc-restore.com/'
-      }
-    ]
-  },
+  }
 ]
 </script>
 
