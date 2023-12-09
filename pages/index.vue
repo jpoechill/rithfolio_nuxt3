@@ -40,6 +40,22 @@
 const count = 100099
 const projects = [
   {
+    title: 'Frontend Quiz',
+    description: 'A multi-page, frontend, quiz application utilizing features in Next.js and Tailwind. ',
+    img: '/browser-01.jpg',
+    url: 'https://ppc-restore.com/',
+    links: [
+      {
+        title: 'Github',
+        url: 'https://github.com/jpoechill/fequiz'
+      },
+      {
+        title: 'Live Site',
+        url: 'https://fequiz.vercel.app/'
+      }
+    ]
+  },
+  {
     title: 'Product Feedback',
     description: 'A frontend, product feedback application made for managing feature requests for products and teams.',
     img: '/browser-12.png',
@@ -68,22 +84,6 @@ const projects = [
       {
         title: 'Demo',
         url: 'https://sweet-muffin-869709.netlify.app/'
-      }
-    ]
-  },
-  {
-    title: 'Frontend Quiz',
-    description: 'A multi-page, frontend, quiz application utilizing features in Next.js and Tailwind. ',
-    img: '/browser-01.jpg',
-    url: 'https://ppc-restore.com/',
-    links: [
-      {
-        title: 'Github',
-        url: 'https://github.com/jpoechill/fequiz'
-      },
-      {
-        title: 'Live Site',
-        url: 'https://fequiz.vercel.app/'
       }
     ]
   },
